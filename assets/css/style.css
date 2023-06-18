@@ -259,8 +259,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 }
 
 p.last-line {
-  border-bottom: 1px solid #999fb3;
-  padding-bottom: 35px;
+  /* border-bottom: 1px solid #999fb3; */
+  padding-bottom: 50px;
 }
 
 p.padded {
