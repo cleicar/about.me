@@ -6,6 +6,7 @@ I'm a Senior Software Engineer at [OmbuLabs.com](http://www.ombulabs.com), where
 
 I'm also an entrepreneur and run the startup [OPSICO](http://www.opsicoapp.com) as Co-founder and CTO.
 
-#### How to get in touch
+
+### About me
 
 Please visit my online resume at https://cleicar.github.io/about.me/
